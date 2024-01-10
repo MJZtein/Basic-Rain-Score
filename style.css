@@ -60,7 +60,7 @@ body #gui {
   right: 3%;
   z-index: 999;
   text-align: right;
-  font-size: 18px;
+  font-size: 15px;
   pointer-events: none;
   opacity: 0.6;
 }
